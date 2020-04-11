@@ -10,3 +10,7 @@
 #wall .parent {
   display: none;
 }
+
+.parent .slick {
+  display: none;
+}
